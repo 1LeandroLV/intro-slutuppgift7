@@ -9,5 +9,5 @@ Vad innebär det att vara en systemutvecklare i ett team?
 sytemutvecklare som ett team är att man skirver kod tillsammans, man går på möten tillsammans. man skapa lösningar tsm och upfyller kundernas behov tsm. det handlar också om att förtsår hur olika delar av systemet hänger ihop-
 
 Vad har varit mest intressant under kursens tre veckor?
-det vu har gått igenom gitt och gitthub, hade noll koll vad det va innan kursen nu vet jag vad det är och vad det gör.
+det vi har gått igenom gitt och gitthub, hade noll koll vad det va innan kursen nu vet jag vad det är och vad det gör.
 
