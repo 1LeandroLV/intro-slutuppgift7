@@ -1,6 +1,13 @@
 Vad visste du om mjukvaruutveckling innan kursen – och vad vet du nu?
+jag läste innan att det är där man gör appar för datorer och mobiler.
 Vad betyder “DevOps” för dig? Hur skulle du förklara det till en kompis?
+dev är den som bygger upp program och ops är den som skydda programmet
+
 Hur tänker du kring molnet? Vad känns spännande – och vad känns svårt?
+tycker det är häftig att man kan spara alla sina projekt där. men lite svårt att hålla koll på visa saker men det gäller bara repetera så sitter den.
 Vad innebär det att vara en systemutvecklare i ett team?
+sytemutvecklare som ett team är att man skirver kod tillsammans, man går på möten tillsammans. man skapa lösningar tsm och upfyller kundernas behov tsm. det handlar också om att förtsår hur olika delar av systemet hänger ihop-
+
 Vad har varit mest intressant under kursens tre veckor?
+det vu har gått igenom gitt och gitthub, hade noll koll vad det va innan kursen nu vet jag vad det är och vad det gör.
 
